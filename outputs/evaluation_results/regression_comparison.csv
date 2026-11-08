@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Linear Regression,1.612,2.212,0.761
+Tuned Ridge,1.533,2.164,0.772
+Random Forest (comparison),1.194,1.994,0.806
